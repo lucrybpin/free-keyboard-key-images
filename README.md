@@ -1,4 +1,4 @@
-## Free SVG Keyboard Keys
+## Free Keyboard Images
 
 based on [Keyboard Key SpeedFlips](https://github.com/q2apro/keyboard-keys-speedflips)
 
